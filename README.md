@@ -10,7 +10,7 @@ Error Handling Routine
 This is a simple Error handling project
 
 ### Files used
-Include the files used
+Only 1 file referred. Datafile.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Project picked from Python learning
