@@ -4,7 +4,7 @@
 19th July 2022
 
 ### Project Title
-Error Handling Routine
+Error Handling Routine for GIT project
 
 ### Description
 This is a simple Error handling project
