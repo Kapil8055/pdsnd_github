@@ -7,7 +7,7 @@
 Error Handling Routine
 
 ### Description
-Describe what your project is about and what it does
+This is a simple Error handling project
 
 ### Files used
 Include the files used
