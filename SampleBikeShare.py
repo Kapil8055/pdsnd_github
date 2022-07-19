@@ -16,7 +16,7 @@ lets_party = 'y'
 while lets_party == 'y':
 
     cookies = int(input("How many cookies are you baking? "))
-    people = int(input("How many people are attending? "))
+    people = int(input("How many people are attending the party? "))
 
     cookies_each, leftovers = party_planner(cookies, people)
 
